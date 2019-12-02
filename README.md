@@ -46,4 +46,4 @@ Nothing major to state. Just took some time figuring out how to setup MHN Admin 
 
 ### Issues
 
-I attached a smaller session.json file because the original file exceeds more that 200GB.
+I attached a smaller session.json file because the original file exceeds more that 200MB.
