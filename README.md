@@ -46,4 +46,4 @@ Nothing major to state. Just took some time figuring out how to setup MHN Admin 
 
 ### Issues
 
-I am unable to attach the session.json file because the file exceeds more than 200gb and there is an error saying I am unable to attach it to the repository.
+I attached a smaller session.json file because the original file exceeds more that 200GB.
